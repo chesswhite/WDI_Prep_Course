@@ -1,0 +1,9 @@
+p {
+    font-family: Arial;
+    width: 200px;
+    color:white;
+    padding:10px 20px; 
+    background-color: 999999;
+	border: 2px; border-style:dotted;
+    margin: 0px 0px 30px
+}
