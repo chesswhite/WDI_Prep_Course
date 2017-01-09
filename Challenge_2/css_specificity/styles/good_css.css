@@ -1,0 +1,16 @@
+h1 {
+    font-size: 48px;
+}
+ul li {
+    color: DarkGrey;
+    font-size: 32px;
+}
+.bold { 
+    font-weight: bold;
+}
+.navy {
+    color: navy;
+}
+.crossed {
+    text-decoration: line-through;
+}
