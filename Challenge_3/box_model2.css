@@ -1,5 +1,12 @@
-p {
-    width: 400px;
+img {
+    display: block;
+    margin-bottom: 20px;
+}
+.first {
     padding:30px; 
     background-color: lightgrey;
+}
+.second {
+    border:30px solid; 
+    border-color: lightgrey;
 }
