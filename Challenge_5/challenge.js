@@ -33,4 +33,4 @@ console.log(parseInt("113"))
 console.log(parseFloat(1.12356))
 var x = parseInt("Hello World");
 console.log (x)
-//The resule was NaN or, not a number. 
+//The resule was NaN or, not a number (tect cannot be interpreted as a numerical value). 
